@@ -1,0 +1,2 @@
+This is a test file for UDP reliable data transfer using Go-Back-N protocol.
+ The sending window size is 400 bytes, each packet carries up to 80 bytes of data. Student ID: 2111.
